@@ -32,6 +32,10 @@ A simple, interactive web-based quiz application to test your tech knowledge!
 
 4. Click Restart to try again!
 
+## Demo
+
+<video controls src="Tech-Quiz.mp4" title="Tech Quiz"></video>
+
 ## License
 
 This project is licensed under the MIT License.
